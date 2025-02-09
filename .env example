@@ -1,0 +1,3 @@
+API_KEY = "xxxxxxxxxxxxxxxxxxxxxxxx"
+API_SECRET = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+BASE_URL = "https://paper-api.alpaca.markets/v2"

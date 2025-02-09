@@ -31,7 +31,10 @@ source myenv/bin/activate  # macOS/Linux
 ```
 
 3️⃣ Install Dependencies
+
+```sh
 pip install -r requirements.txt
+```
 
 4️⃣ Set Up Your .env File
 Create a .env file in the root directory with your Alpaca API credentials:
